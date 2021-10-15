@@ -2,7 +2,7 @@
 Vigenere Cipher is an encryption algorithm; more information can be found in https://github.com/guyr18/VigenereCipher/blob/main/HWK3.pdf  
 
 # Running This Application
-This algorithm is implemented in Python 3.x; Furthermore, it requirement two arguments as input and can be run via the command line
+This algorithm is implemented in Python 3.x; Furthermore, it requires two arguments as input and can be run via the command line
 as follows:
 
     python3 core.py -kw=WHITE -msg=divert troops to east ridge
